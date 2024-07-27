@@ -1,0 +1,17 @@
+
+{
+  "name": "alonsohhl/revslider",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/Alonsohhl/revslider",
+  "authors": [
+    {
+      "name": "Alonso Huayta",
+      "homepage": "https://originalpluginurl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
